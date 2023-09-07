@@ -1,0 +1,11 @@
+Create repository with readme option
+1. copy code from git
+2. git clone (paste)
+3. go to python folder and make a file
+4. get git bash here
+5.git status
+6. git add .
+7. git status
+8. git commit -m "message"
+9. git pull origin main 
+10. git push origin main
